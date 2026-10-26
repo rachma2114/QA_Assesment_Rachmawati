@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify GET List Users API returns valid response.</description>
+   <name>TC_API_001_Get_ListUsers</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Rachmawati</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>3646f03a-4e4f-4575-a2dd-a8a4f0450e1a</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a1b3df36-e3f6-41a9-bded-8f76878b9a9e</testCaseGuid>
+</TestCaseEntity>

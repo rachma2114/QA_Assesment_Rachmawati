@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_KAFKA_001_ConsumeMessage</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>feaec737-6add-4f71-bc2c-df59d19b1c7b</testCaseGuid>
+</TestCaseEntity>

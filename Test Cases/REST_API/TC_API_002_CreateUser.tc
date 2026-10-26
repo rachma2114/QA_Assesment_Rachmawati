@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_API_002_CreateUser</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Rachmawati</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>3646f03a-4e4f-4575-a2dd-a8a4f0450e1a</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>235ac988-29ec-4a1c-8336-ac24884766c8</testCaseGuid>
+</TestCaseEntity>
